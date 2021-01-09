@@ -55,13 +55,13 @@ This project is about sending keystrokes to computer using arduino leonardo via 
 
 ## Code and Upload
 
-Before uploading code 
+Before uploading code few changes need to be done
 
 <p align="center"><b><i>select tools and choose arduino leonardo board from Board</b></i></p>
 
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/53993341/104085996-e4518400-5279-11eb-9e7f-c18329e83e37.jpg">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/53993341/104086084-a6089480-527a-11eb-8516-0d8aa9c74838.jpg">
 </p>
 
 
@@ -72,9 +72,9 @@ Before uploading code
   <img width="460" height="300" src="https://user-images.githubusercontent.com/53993341/104085995-e3205700-5279-11eb-8087-f4a6b897e7a0.jpg">
 </p>
 
-<p align="center"><b><i>Note : Port number may not be same</p>
+<p align="center"><b><i>Note : Port number may not be same</i></b></p>
 
-Now write and upload the code.
+Now write and upload the code using Ctrl + U command or from the upload button on the top.
 
 ## References
 
