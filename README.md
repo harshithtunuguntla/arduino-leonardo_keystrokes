@@ -24,14 +24,14 @@ This project is about sending keystrokes to computer using arduino leonardo via 
 </p>
 
 
-<p align="center">Search for keyboard</p>
+<p align="center"><i><b>Search for keyboard</p>
 
 <p align="center">
   <img width="1000" height="100" src="https://user-images.githubusercontent.com/53993341/104085328-82425000-5274-11eb-9a23-eaa6ae56ad32.jpg">
 </p>
 
 
-<p align="center">Select latest version and install</p>
+<p align="center"><<b><i>Select latest version and install</p>
 <p align="center">
   <img width="760" height="300" src="https://user-images.githubusercontent.com/53993341/104085327-81a9b980-5274-11eb-8cd3-9c70f69a068d.jpg">
 </p>
@@ -45,18 +45,24 @@ This project is about sending keystrokes to computer using arduino leonardo via 
 
 * Connect Echo Pin, Trig Pin of ultrasonic sensor to pin 2, 3 on arduino leonardo respectively
 
+<p align="center"><b><i>Note : Please assume the board displayed as arduino leonardo</p>
+  
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/53993341/104085326-81112300-5274-11eb-9b0e-f51b61739e26.jpg">
 </p>
 
-<p align="center">Note : Please assume the board displayed as arduino leonardo</p>
+
 
 ## Code and Upload
 
 Before uploading code select tools and select arduino leonardo board from Board and select port for arduino leonardo.
+
+<p align="center"><b><i>Note : Port number may not be same</p>
+
 Now write and upload the code.
 
 ## References
 
-You can change the keystrokes which are sent to keyboard
+You can change the keystrokes which are sent to keyboard.
+
 For more Keyboard modifiers refer [Arduino Keyboard Modifiers](https://www.arduino.cc/en/Reference/KeyboardModifiers)
