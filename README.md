@@ -3,7 +3,7 @@ This project is about sending keystrokes to keyboard via USB cable connected to 
 
 In this project I used ultrasonic sensor to detect the entry of any person into the room and used this signal to shift among the tabs in the computer(Keystrokes used : ALT + TAB)
 
- ***Note :** Arduino Leonardo can be used for many other purposes (Keystroking, Controlling mouse movements, spamming text via keystroking etc..)
+ ***Note :** Arduino Leonardo can be used for many other purposes (Keystroking, Controlling mouse movements, spamming text via keystroking etc..)*
 
 ## Components Required 
 
