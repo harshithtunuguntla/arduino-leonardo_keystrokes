@@ -45,7 +45,7 @@ This project is about sending keystrokes to computer using arduino leonardo via 
 
 * Connect Echo Pin, Trig Pin of ultrasonic sensor to pin 2, 3 on arduino leonardo respectively
 
-<p align="center"><b><i>Note : Please assume the board displayed as arduino leonardo</p>
+<p align="center"><b><i>Note : Please assume the board displayed as arduino leonardo</b></i></p>
   
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/53993341/104085326-81112300-5274-11eb-9b0e-f51b61739e26.jpg">
