@@ -78,6 +78,4 @@ Now connect the board to PC using USB cable and upload the code using Ctrl + U c
 
 ## References
 
-You can change the keystrokes which are sent to keyboard.
-
-For more Keyboard modifiers refer [Arduino Keyboard Modifiers](https://www.arduino.cc/en/Reference/KeyboardModifiers)
+You can change the keystrokes which are sent to keyboard. For more Keyboard modifiers refer [Arduino Keyboard Modifiers](https://www.arduino.cc/en/Reference/KeyboardModifiers)
