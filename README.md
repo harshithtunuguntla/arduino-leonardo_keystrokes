@@ -7,19 +7,25 @@ In this project I used ultrasonic sensor to detect the entry of any person into 
 
 ## Components Required 
 
--Arduino Leonardo
+* Arduino Leonardo
 
--Ultrasonic Sensor
+* Ultrasonic Sensor
 
--Jumper Wires
+* Jumper Wires
 
 ## Prerequisites
 
 -Arduino IDE software [Download](https://www.arduino.cc/en/software)
 
--Install Keyboard Library after succesful download *(Click on tools -> Manage Libraries... -> Search for Keyboard -> Select Latest Version -> Install)*
+-Install Keyboard Library after succesful download 
+
+*click on Tools -> Manage Libraries...*
 ![tools](https://user-images.githubusercontent.com/53993341/104085324-7787bb00-5274-11eb-8094-f75042825938.jpg)
+
+*Search for keyboard*
 ![keyboard](https://user-images.githubusercontent.com/53993341/104085328-82425000-5274-11eb-9a23-eaa6ae56ad32.jpg)
+
+*Select latest version and install*
 ![install](https://user-images.githubusercontent.com/53993341/104085327-81a9b980-5274-11eb-8cd3-9c70f69a068d.jpg)
 
 
