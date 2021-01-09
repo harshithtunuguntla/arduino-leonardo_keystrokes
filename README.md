@@ -57,7 +57,7 @@ This project is about sending keystrokes to computer using arduino leonardo via 
 
 Before uploading code few changes need to be done
 
-<p align="center"><b><i>select tools and choose arduino leonardo board from Board</b></i></p>
+<p align="center"><b><i>Select tools and choose arduino leonardo board from Board</b></i></p>
 
 
 <p align="center">
@@ -65,7 +65,7 @@ Before uploading code few changes need to be done
 </p>
 
 
-<p align="center"><b><i>select port for arduino leonardo</b></i></p>
+<p align="center"><b><i>Select port for arduino leonardo</b></i></p>
 
 
 <p align="center">
@@ -74,7 +74,7 @@ Before uploading code few changes need to be done
 
 <p align="center"><b><i>Note : Port number may not be same</i></b></p>
 
-Now write and upload the code using Ctrl + U command or from the upload button on the top.
+Now connect the board to PC using USB cable and upload the code using Ctrl + U command or from the upload button on the top.
 
 ## References
 
