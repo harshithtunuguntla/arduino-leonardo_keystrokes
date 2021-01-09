@@ -26,11 +26,15 @@ This project is about sending keystrokes to computer using arduino leonardo via 
 
    *Search for keyboard*
 
-![keyboard](https://user-images.githubusercontent.com/53993341/104085328-82425000-5274-11eb-9a23-eaa6ae56ad32.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/53993341/104085328-82425000-5274-11eb-9a23-eaa6ae56ad32.jpg">
+</p>
+
 
    *Select latest version and install*
-
-![install](https://user-images.githubusercontent.com/53993341/104085327-81a9b980-5274-11eb-8cd3-9c70f69a068d.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/53993341/104085327-81a9b980-5274-11eb-8cd3-9c70f69a068d.jpg">
+</p>
 
 
 
@@ -42,8 +46,9 @@ This project is about sending keystrokes to computer using arduino leonardo via 
 
 * Connect Echo Pin, Trig Pin of ultrasonic sensor to pin 2, 3 on arduino leonardo respectively
 
-
-![connections](https://user-images.githubusercontent.com/53993341/104085326-81112300-5274-11eb-9b0e-f51b61739e26.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/53993341/104085326-81112300-5274-11eb-9b0e-f51b61739e26.jpg">
+</p>
 
    *Note : Please assume the board displayed as arduino leonardo*
 
