@@ -27,13 +27,13 @@ This project is about sending keystrokes to computer using arduino leonardo via 
    *Search for keyboard*
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/53993341/104085328-82425000-5274-11eb-9a23-eaa6ae56ad32.jpg">
+  <img width="1000" height="100" src="https://user-images.githubusercontent.com/53993341/104085328-82425000-5274-11eb-9a23-eaa6ae56ad32.jpg">
 </p>
 
 
    *Select latest version and install*
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/53993341/104085327-81a9b980-5274-11eb-8cd3-9c70f69a068d.jpg">
+  <img width="560" height="400" src="https://user-images.githubusercontent.com/53993341/104085327-81a9b980-5274-11eb-8cd3-9c70f69a068d.jpg">
 </p>
 
 
