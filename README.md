@@ -18,9 +18,12 @@ In this project I used ultrasonic sensor to detect the entry of any person into 
 -Arduino IDE software [Download](https://www.arduino.cc/en/software)
 
 -Install Keyboard Library after succesful download *(Click on tools -> Manage Libraries... -> Search for Keyboard -> Select Latest Version -> Install)*
-![Screenshot displaying tools][tools.jpg]
-![Screenshot displaying Library Manager][keyboard.jpg]
-![Screenshot displaying select version and install][install.jpg]
+![tools](https://user-images.githubusercontent.com/53993341/104085324-7787bb00-5274-11eb-8094-f75042825938.jpg)
+![keyboard](https://user-images.githubusercontent.com/53993341/104085328-82425000-5274-11eb-9a23-eaa6ae56ad32.jpg)
+![install](https://user-images.githubusercontent.com/53993341/104085327-81a9b980-5274-11eb-8cd3-9c70f69a068d.jpg)
+
+
+
 
 
 ## Connections
@@ -29,7 +32,7 @@ In this project I used ultrasonic sensor to detect the entry of any person into 
 
 -Connect Echo Pin, Trig Pin of ultrasonic sensor to pin 2, 3 on arduino leonardo respectively
 
-![Screenshot displaying connections][connections.jpg]
+![connections](https://user-images.githubusercontent.com/53993341/104085326-81112300-5274-11eb-9b0e-f51b61739e26.jpg)
 *Note : Please assume the board displayed as arduino leonardo*
 
 ## Code and Upload
