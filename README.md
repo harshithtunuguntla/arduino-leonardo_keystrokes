@@ -1,4 +1,4 @@
-#               Sending keystrokes using Arduino Leonardo
+#               <p align='center'>Sending keystrokes using Arduino Leonardo</p>
 This project is about sending keystrokes to computer using arduino leonardo via USB cable. This project uses an ultrasonic sensor to detect the entry of any person into the room and sends the signal to shift the tabs in the computer(Keystrokes used : ALT + TAB)
 
  ***Note :** Arduino Leonardo can be used for many other purposes (Keystroking, Controlling mouse movements, spamming text via keystroking etc..)*
@@ -24,14 +24,14 @@ This project is about sending keystrokes to computer using arduino leonardo via 
 </p>
 
 
-   *Search for keyboard*
+<p align="center">Search for keyboard</p>
 
 <p align="center">
   <img width="1000" height="100" src="https://user-images.githubusercontent.com/53993341/104085328-82425000-5274-11eb-9a23-eaa6ae56ad32.jpg">
 </p>
 
 
-   *Select latest version and install*
+<p align="center">Select latest version and install</p>
 <p align="center">
   <img width="760" height="300" src="https://user-images.githubusercontent.com/53993341/104085327-81a9b980-5274-11eb-8cd3-9c70f69a068d.jpg">
 </p>
@@ -50,7 +50,7 @@ This project is about sending keystrokes to computer using arduino leonardo via 
   <img width="460" height="300" src="https://user-images.githubusercontent.com/53993341/104085326-81112300-5274-11eb-9b0e-f51b61739e26.jpg">
 </p>
 
-   *Note : Please assume the board displayed as arduino leonardo*
+<p align="center">Note : Please assume the board displayed as arduino leonardo</p>
 
 ## Code and Upload
 
