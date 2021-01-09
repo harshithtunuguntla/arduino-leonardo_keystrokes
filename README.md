@@ -17,7 +17,7 @@ This project is about sending keystrokes to computer using arduino leonardo via 
 
 * After succesful download install keyboard library as follows
 
-<p align="center">click on Tools -> Manage Libraries...</p>
+<p align="center"><i><b>click on Tools -> Manage Libraries...</b></i></p>
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/53993341/104085324-7787bb00-5274-11eb-8094-f75042825938.jpg">
@@ -35,7 +35,6 @@ This project is about sending keystrokes to computer using arduino leonardo via 
 <p align="center">
   <img width="760" height="300" src="https://user-images.githubusercontent.com/53993341/104085327-81a9b980-5274-11eb-8cd3-9c70f69a068d.jpg">
 </p>
-
 
 
 
@@ -59,4 +58,5 @@ Now write and upload the code.
 
 ## References
 
-For more Keyboard modifiers refer : [Keyboard Modifiers](https://www.arduino.cc/en/Reference/KeyboardModifiers)
+You can change the keystrokes which are sent to keyboard
+For more Keyboard modifiers refer [Arduino Keyboard Modifiers](https://www.arduino.cc/en/Reference/KeyboardModifiers)
